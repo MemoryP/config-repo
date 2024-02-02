@@ -2,6 +2,3 @@
 所有的相同类型的包装类对象之间值的比较，全部使用 equals 方法比较
 @Deprecated 过时接口
 循环拼接字符串使用StringBuffer
-2
-1
-1234
