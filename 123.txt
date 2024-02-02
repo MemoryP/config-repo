@@ -3,4 +3,4 @@
 @Deprecated 过时接口
 循环拼接字符串使用StringBuffer
 2
-1233
+1
